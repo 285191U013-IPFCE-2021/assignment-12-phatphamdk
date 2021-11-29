@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20211129-1909-Experimental"
+	Name="LAPTOP-UIRD9FVE"
+	Generator="ctest-3.21.3"
+	CompilerName="C:/MinGW/bin/x86_64-w64-mingw32-g++.exe"
+	CompilerVersion="8.1.0"
+	OSName="Windows"
+	Hostname="LAPTOP-UIRD9FVE"
+	OSRelease=" Personal"
+	OSVersion=" (Build 19041)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="0"
+	ProcessorCacheSize="64"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="27010"
+	TotalPhysicalMemory="15741"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="1996"
+	>
+	<Testing>
+		<StartDateTime>Nov 29 20:54 Rom, normaltid</StartDateTime>
+		<StartTestTime>1638215646</StartTestTime>
+		<TestList>
+			<Test>./tests/usage_test</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>usage_test</Name>
+			<Path>./tests</Path>
+			<FullName>./tests/usage_test</FullName>
+			<FullCommandLine>"C:\Users\phat_\OneDrive - Aarhus Universitet\Skrivebord\1. semester\Programmering for CT\assignment-12-phatphamdk\build\tests\tests.exe"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0411816</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>"C:\Users\phat_\OneDrive - Aarhus Universitet\Skrivebord\1. semester\Programmering for CT\assignment-12-phatphamdk\build\tests\tests.exe"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4HLMyVEoSS0uKVYoSCwuTk1R0DA0VgCxikoy8/OKFTLzFIzBChSSE4tTizW5uABvYSOX====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Nov 29 20:54 Rom, normaltid</EndDateTime>
+		<EndTestTime>1638215646</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

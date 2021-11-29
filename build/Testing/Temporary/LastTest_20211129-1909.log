@@ -1,0 +1,21 @@
+Start testing: Nov 29 20:54 Rom, normaltid
+----------------------------------------------------------
+1/1 Testing: usage_test
+1/1 Test: usage_test
+Command: "C:/Users/phat_/OneDrive - Aarhus Universitet/Skrivebord/1. semester/Programmering for CT/assignment-12-phatphamdk/build/tests/tests.exe"
+Directory: C:/Users/phat_/OneDrive - Aarhus Universitet/Skrivebord/1. semester/Programmering for CT/assignment-12-phatphamdk/build/tests
+"usage_test" start time: Nov 29 20:54 Rom, normaltid
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (13 assertions in 3 test cases)
+
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"usage_test" end time: Nov 29 20:54 Rom, normaltid
+"usage_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 29 20:54 Rom, normaltid
